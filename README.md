@@ -6,7 +6,7 @@ Please follow [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch/tree/p
 
 ## Datasets
 ### Datasets Preparation
-* **KAIST:** Download the [Thermal KAIST](https://www.cityscapes-dataset.com/) and [Visible KAIST](https://github.com/yuhuayc/da-faster-rcnn/tree/master/prepare_data) dataset.
+* **KAIST:** Download the [Thermal KAIST](https://drive.google.com/drive/u/3/folders/1PYr6RyLvRO5s0UPoo4bG94AhKSp7a4zL) and [Visible KAIST](https://drive.google.com/drive/u/3/folders/1XO8WwTNTzjbAvX771Pov6wGXhnJzYE1y) dataset.
 * **FLIR:** Download the [Thermal FLIR](https://drive.google.com/drive/u/3/folders/1aeCO2XCXgf2f2U3B99fk4htI8-9DHdMw) and [Visible FLIR](https://drive.google.com/drive/u/3/folders/1tgI86nBdbkKMHLTpKjBSAnOTW2qdOV4B) dataset.
 
 ## Models
