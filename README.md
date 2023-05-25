@@ -1,8 +1,46 @@
 # Feature distribution alignments for object detection in the thermal domain
-![architecture](https://github.com/AmineMarnissi/UDAT/blob/main/journal_flowchart_juin_v1.png)
+### :book: Feature distribution alignments for object detection in the thermal domain
 
-## Introduction
-Please follow [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0) respository to setup the environment. In this project, we use Pytorch 1.0.1 and CUDA version is 10.0.130. 
+> [[Paper](https://arxiv.org/abs/2101.04061)] &emsp; [[Project Page](https://aminemarnissi.github.io/projects/vcj.html)] &emsp; [Demo] <br>
+> [Mohamed Amine Marnissi](https://aminemarnissi.github.io/)
+> ...
+
+<p align="center">
+  <img src="https://github.com/AmineMarnissi/UDAT/blob/main/journal_flowchart_juin_v1.png">
+</p>
+
+---
+
+## :wrench: Dependencies and Installation
+
+- Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+- [PyTorch >= 1.7](https://pytorch.org/)
+- Option: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
+- Option: Linux
+
+### Installation
+
+We now provide a *clean* version of GFPGAN, which does not require customized CUDA extensions. <br>
+
+1. Clone repo
+
+    ```bash
+    git clone https://github.com/AmineMarnissi/UDAT.git
+    cd UDAT
+    ```
+
+1. Install dependent packages
+
+    ```bash
+    # Create the environment from the environment.yml file:
+    conda env create -f environment.yml
+    
+    # Activate the new environment:
+    conda activate UDAT
+    
+    # Verify that the new environment was installed correctly:
+    conda env list
+    ```
 
 ## Datasets
 ### Datasets Preparation
