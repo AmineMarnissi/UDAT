@@ -53,12 +53,25 @@ In our experiments, we used two pre-trained models on ImageNet, i.e. ResNet101. 
 * **ResNet101:** [Dropbox](https://www.dropbox.com/s/iev3tkbz5wyyuz9/resnet101_caffe.pth?dl=0),  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
 
 Download and write the path in **__C.RESNET_PATH** at ```lib/model/utils/config.py```.
+## Training
+```
+bash kaist_train.sh
 
+bash flir_train.sh
+```
 ## Test
 ```
-CUDA_VISIBLE_DEVICES=$GPU_ID \
-       python test_net.py \
-       --dataset source_dataset --dataset_t target_dataset \
-       --net resnet101  \
-       --load_name path_to_model
 ```
+## BibTeX
+
+    @article{article,
+    author = {Marnissi, Mohamed and Fradi, Hajer and Sahbani, Anis and ESSOUKRI BEN AMARA, Najoua},
+    year = {2022},
+    month = {02},
+    title = {Feature distribution alignments for object detection in the thermal domain},
+    journal = {The Visual Computer}
+    }
+
+## :e-mail: Contact
+
+If you have any question, please email `mohamed.amine.marnissi@gmail.com`.
