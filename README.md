@@ -60,6 +60,7 @@ bash flir_train.sh
 ```
 ## Test
 ```
+python test_flir.py
 ```
 ## Demo
 <p align="center">
