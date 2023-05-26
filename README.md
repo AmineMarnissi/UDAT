@@ -62,6 +62,11 @@ bash flir_train.sh
 ## Test
 ```
 ```
+##Demo
+<p align="center">
+  <img src="https://github.com/AmineMarnissi/UDAT/blob/main/demo.gif">
+</p>
+
 ## BibTeX
 
     @article{article,
