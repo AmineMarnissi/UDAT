@@ -6,7 +6,7 @@
 > ...
 
 <p align="center">
-  <img src="https://github.com/AmineMarnissi/UDAT/images/blob/main/journal_flowchart_juin_v1.png">
+  <img src="https://github.com/AmineMarnissi/UDAT/blob/main/images/journal_flowchart_juin_v1.png">
 </p>
 
 ---
@@ -64,7 +64,7 @@ python test_flir.py
 ```
 ## Demo
 <p align="center">
-  <img src="https://github.com/AmineMarnissi/UDAT/images/blob/main/demo.gif">
+  <img src="https://github.com/AmineMarnissi/UDAT/images/blob/main/images/demo.gif">
 </p>
 
 ## BibTeX
