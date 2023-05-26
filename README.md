@@ -64,7 +64,7 @@ python test_flir.py
 ```
 ## Demo
 <p align="center">
-  <img src="https://github.com/AmineMarnissi/UDAT/images/blob/main/images/demo.gif">
+  <img src="https://github.com/AmineMarnissi/UDAT/blob/main/images/demo.gif">
 </p>
 
 ## BibTeX
