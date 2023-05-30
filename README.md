@@ -1,7 +1,7 @@
 # Feature distribution alignments for object detection in the thermal domain
 ### :book: Feature distribution alignments for object detection in the thermal domain
 
-> [[Paper](https://arxiv.org/abs/2101.04061)] &emsp; [[Project Page](https://aminemarnissi.github.io/projects/vcj.html)] &emsp; [Demo] <br>
+> [[Paper](https://hal.science/hal-03909913/)] &emsp; [[Project Page](https://aminemarnissi.github.io/projects/vcj.html)] &emsp; [Demo] <br>
 > [Mohamed Amine Marnissi](https://aminemarnissi.github.io/)
 > ...
 
