@@ -43,7 +43,7 @@ We now provide a *clean* version of GFPGAN, which does not require customized CU
     ```
 
 ## Datasets
-* **KAIST:** Download the [Thermal KAIST](https://drive.google.com/drive/u/3/folders/1PYr6RyLvRO5s0UPoo4bG94AhKSp7a4zL) and [Visible KAIST](https://drive.google.com/drive/u/3/folders/1XO8WwTNTzjbAvX771Pov6wGXhnJzYE1y) dataset.
+* **KAIST:** Download the [Thermal KAIST](https://huggingface.co/datasets/AmineMarnissi/ThermalKaist) and [Visible KAIST](https://drive.google.com/drive/u/3/folders/1XO8WwTNTzjbAvX771Pov6wGXhnJzYE1y) dataset.
 * **FLIR:** Download the [Thermal FLIR](https://drive.google.com/drive/u/3/folders/1aeCO2XCXgf2f2U3B99fk4htI8-9DHdMw) and [Visible FLIR](https://drive.google.com/drive/u/3/folders/1tgI86nBdbkKMHLTpKjBSAnOTW2qdOV4B) dataset.
 
 ## Models
